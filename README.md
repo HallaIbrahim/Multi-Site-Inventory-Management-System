@@ -1,1 +1,1 @@
-# Finall
+# Develop a Multi-Site Inventory Management System using SQL Server, showcasing distributed database concepts. Features include inventory tracking, transaction management, reporting, user interface, and replication for efficient inventory management across multiple locations Using CRUD operations.
